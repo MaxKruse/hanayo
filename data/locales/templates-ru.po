@@ -24,7 +24,7 @@ msgstr "Отправить"
 msgid "Username"
 msgstr "Имя пользователя"
 
-msgid "Password"
+msgid "Password"s
 msgstr "Пароль"
 
 msgid "Invalid CSRF token"
